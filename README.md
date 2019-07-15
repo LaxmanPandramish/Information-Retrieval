@@ -1,6 +1,6 @@
 # Information-Retrival-Search-Engine
 
-Information Retrial is the process of required information from a set of data. There is no limit in size of data. I developed a Search Engine with help of Prashanth Sandela 
+Information Retrial is the process of required information from a set of data. There is no limit in size of data. I developed a Search Engine with help of Prashanth Sandela .
 
 ### Numeric Info:
 
